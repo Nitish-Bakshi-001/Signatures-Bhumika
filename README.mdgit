@@ -1,0 +1,1 @@
+# Signatures-Bhumika initgit add README.mdgit commit -m first commitgit branch -M maingit remote add origin https://github.com/Nitish-Bakshi-001/Signatures-Bhumika.gitgit push -u origin main
